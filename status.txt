@@ -1,0 +1,5 @@
+Vicki Young - Project 3
+
+program works as required
+compiles/runs and the output matches correct format
+also included comments 
